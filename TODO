@@ -1,6 +1,8 @@
 BRANCH
-main, live, dev
-
+live - auto push 
+main - merge
+dev - netapp js
+manifests - mk8
 
 FUNCTIONS
 tabs generation 
